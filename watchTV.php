@@ -12,6 +12,8 @@
 <link rel="stylesheet" type="text/css" href="animals1.css">
 </head>
 
+
+
 <body>
 <div class="container">
 <header class="main-header base">
